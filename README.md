@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vansh-2962
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...java
+- 🌱 I’m a Full-Stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... vanshsura29@gmail.com
 
