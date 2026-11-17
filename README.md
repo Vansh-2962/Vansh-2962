@@ -12,7 +12,7 @@
 🤝 Open to collaborating on open-source projects, developer tools, AI applications, and scalable web solutions.
 
 📫 **Connect with me:**
-- 🌐 Portfolio: https://vansh-drab-two.vercel.app/
+- 🌐 Portfolio: [https://vansh-drab-two.vercel.app/](https://vansh-drab-two.vercel.app/)
 - 💼 LinkedIn: https://www.linkedin.com/in/vansh-singh-sura/
 - 𝕏 X (Twitter): https://x.com/VanshSura
 - 📧 Email: vanshsura29@gmail.com
